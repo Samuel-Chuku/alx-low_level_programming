@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - This is the main entry of the code.
- * Description: This is a program that prints the string _putchar to the terminal.
+ * main - main entry of the code.
+ * Description: a program that prints the string _putchar to the terminal.
  * Return: The program will return 0 after successful execution.
  */
 
